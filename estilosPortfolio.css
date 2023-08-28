@@ -1,0 +1,36 @@
+*{
+	margin: 0;
+	box-sizing: border-box;
+}
+
+/* body */
+
+body{
+	color: white;
+	background-color: #000000;
+	
+}
+
+/* NAVBAR */
+
+#navbar{
+    color: rgba(255, 255, 255, 0);
+	background-color: rgba(34, 34, 229, 0.85);
+    font-family: sans-serif;
+}
+
+
+#portfolio{
+    font-family: sans-serif;
+    color: white;
+}
+
+/* Footer */
+
+#iconos{
+    border-radius: 50%;
+    background: black;
+    width: 35px;
+    height: 35px;
+}
+
